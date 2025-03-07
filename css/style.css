@@ -359,11 +359,16 @@ p {
 .text-center {
   text-align: center;
 }
+.mg-responsive{
+
+    border-radius: 5px;
+}
 #head {
-  background: #f4f4f4 url(../img/bg_head.jpg) top center;
+  background: #f4f4f4 url(../img/youcode-bg.jpg) top center;
   background-size: cover;
+  background-position: center;
   color: #7C7C7C;
-  padding: 120px 0;
+  padding: 130px 0;
 }
 #head img.img-circle {
   display: block;
